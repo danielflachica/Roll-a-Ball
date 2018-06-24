@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Vec",
+				"Vector3\tVector3"
+			],
+			[
+				"del",
+				"deliveredOrders"
+			],
+			[
+				"isProce",
+				"isProcessed"
+			],
+			[
+				"delive",
+				"delivered_at"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"input-g",
+				"input-group-text"
+			],
+			[
+				"ovr",
+				"overflow-y"
+			],
+			[
+				"px-",
+				"px-0"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"col-",
+				"col-md-2"
+			],
+			[
+				"fom",
+				"form-control"
+			],
+			[
+				"co",
+				"col-md-4"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"MARG",
+				"margin-bottom"
+			],
+			[
+				"query",
+				"cubrid_query"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"complete",
+				"completed"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"open",
+				"openCart"
+			],
+			[
+				"Res",
+				"result"
+			],
+			[
+				"car",
+				"cartSize"
+			],
+			[
+				"produc",
+				"products-list"
+			],
+			[
+				"total",
+				"total_records"
+			],
+			[
+				"_SE",
+				"_SESSION"
+			],
+			[
+				"grid",
+				"grid_applied_filters"
+			],
+			[
+				"announce",
+				"announcements"
+			],
+			[
+				"bradn",
+				"brandID"
+			],
+			[
+				"target",
+				"target_file"
+			],
+			[
+				"produ",
+				"products-list"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"access",
+				"access_granted"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list-",
+				"list-group-item"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"fF",
+				"FFFFFF"
+			],
+			[
+				"cell",
+				"cell_left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"displ",
+				"display-dropdown"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"confi",
+				"confirmpass"
+			],
+			[
+				"Password",
+				"PasswordMatch"
+			],
+			[
+				"confirmPass",
+				"getConfirmPassword"
+			],
+			[
+				"sub",
+				"submitInfo"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"input",
+				"inputNum"
+			],
+			[
+				"inpu",
+				"inputNum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "roll-a-ball.sublime-project",
+			"settings":
+			{
+				"buffer_size": 189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 1345,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Rotator.cs",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/CameraController.cs",
+			"settings":
+			{
+				"buffer_size": 617,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package Control:rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"materia",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: rEMOV",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"UI: Select Theme"
+			],
+			[
+				"seth",
+				"UI: Select Theme"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 69.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help",
+			"sudo fuck you",
+			"sudo",
+			"sudo apt-get install php7-mysql"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Unity Projects/Roll-a-ball/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/routes/web.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/app/Http/Controllers/OrderController.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/app/User.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/app/Order.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/views/faqs.blade.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/assets/sass/custom.scss",
+		"/C/Users/Dipper/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/database/seeds/AdminsTableSeeder.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/views/orders.blade.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/database/seeds/UsersTableSeeder.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/database/factories/UserFactory.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/database/migrations/2018_06_09_054706_update_orders_table.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/views/admin/order/index.blade.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/app/Bucket.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/views/bucket.blade.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/resources/views/checkout.blade.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/app/Http/Controllers/BucketController.php",
+		"/C/Users/Dipper/Desktop/GItLab/lazy-beer/public/css/app.css",
+		"/C/xampp/htdocs/blog/storage/framework/views/dac3f6b05b5db447c15e8e5f608be315e2278313.php",
+		"/C/xampp/htdocs/blog/config/app.php",
+		"/C/xampp/htdocs/blog/.env",
+		"/C/xampp/htdocs/blog/resources/views/welcome.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/dashboard.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/app/Http/Controllers/AdminController.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/routes/web.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/user/list.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/app/User.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/app/Visit.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/order/index.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/item/index.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/user/index.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/app/Http/Controllers/ItemController.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/.env",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/browse.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/components/carousel.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/item/upload.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/admin/item/add.blade.php",
+		"/C/Users/Dipper/Desktop/GitLab Projects/lazy-beer/resources/views/checkout.blade.php",
+		"/C/xampp/htdocs/JFMestates-dev/listings/sale-new-three-storey-house-in-alabang-sample/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/listings/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/css/app.css",
+		"/C/xampp/htdocs/JFMestates-dev/about/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/bulletin/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/footer-home.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/footer-legal.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/footer.php",
+		"/C/xampp/htdocs/JFMestates-dev/contact/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/testimonials/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/legal/index.php",
+		"/C/xampp/htdocs/JFMestates-dev/legal/privacy/index.php",
+		"/C/Users/Dipper/Desktop/jfmestates-dev/contact/index.php",
+		"/C/Users/Dipper/Desktop/htdocs/warehouse/routes/web.php",
+		"/C/xampp/htdocs/JFMestates-dev/modals/acknowledgements.php",
+		"/C/xampp/htdocs/JFMestates-dev/modals/image-1.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/js/google-maps.js",
+		"/C/xampp/htdocs/JFMestates-dev/res/js/google-maps-home.js",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/nav.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/nav-legal.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/bootstrap.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/bootstrap-legal.php",
+		"/C/xampp/htdocs/JFMestates-dev/res/templates/nav-home.php",
+		"/F/ContentsDB.xml",
+		"/C/xampp/htdocs/jfmestates-dev/index.php",
+		"/C/xampp/htdocs/jfmestates-dev/testimonials/index.php",
+		"/C/xampp/htdocs/jfmestates-dev/modals/testimonial.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/css/app.css",
+		"/C/xampp/htdocs/jfmestates-dev/properties/index.php",
+		"/C/xampp/htdocs/jfmestates-dev/contact/index.php",
+		"/C/xampp/htdocs/jfmestates-dev/about/index.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/templates/nav.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/templates/google-fonts.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/templates/nav-home.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/templates/bootstrap-home.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/templates/bootstrap.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/js/scroll-top.js",
+		"/C/xampp/htdocs/jfmestates-dev/res/js/home-nav.js",
+		"/C/xampp/htdocs/jfmestates-dev/testimonials.php",
+		"/C/xampp/htdocs/jfmestates-dev/res/js/smooth-scroll.js",
+		"/C/xampp/htdocs/Shoeversity/js/smooth-scroll.js",
+		"/C/xampp/htdocs/jfmestates-dev/properties.php",
+		"/C/xampp/htdocs/jfmestates-dev/contact.php",
+		"/C/xampp/htdocs/jfmestates-dev/about.php",
+		"/C/xampp/htdocs/Shoeversity/js/admin-notifications.js",
+		"/C/xampp/htdocs/Shoeversity/js/animate-products-quicklink.js",
+		"/C/xampp/htdocs/jfmestates-dev/res/bootstrap/css/bootstrap.min.css",
+		"/C/xampp/htdocs/jfmestates-dev/res/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/jfmestates-dev/res/js/popper.min.js",
+		"/C/xampp/htdocs/jfmestates-dev/res/js/jquery.min.js",
+		"/C/xampp/htdocs/blog/app/Post.php",
+		"/C/Users/Dipper/Documents/DLSU Docs DESKTOP/OBJECTP/Rock Paper Scissors/src/rockpaperscissors/Model.java",
+		"/C/Users/Dipper/Documents/DLSU Docs DESKTOP/OBJECTP/Rock Paper Scissors/src/rockpaperscissors/Driver.java",
+		"/C/Users/Dipper/Desktop/Indivisa Manent Write-up_050918.txt",
+		"/C/xampp/htdocs/blog/public/css/blog.css",
+		"/C/xampp/htdocs/blog/resources/views/tasks/index.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/tasks/show.blade.php",
+		"/C/xampp/htdocs/blog/database/migrations/2018_05_07_111752_create_tasks_table.php",
+		"/C/xampp/htdocs/blog/app/Task.php",
+		"/C/xampp/htdocs/blog/app/Http/Controllers/TasksController.php",
+		"/C/xampp/htdocs/blog/resources/views/posts/show.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/posts/index.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/blog/app/Http/Controllers/PostsController.php",
+		"/C/xampp/htdocs/blog/resources/views/templates/footer.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/templates/nav.blade.php",
+		"/C/xampp/htdocs/blog/public/css/album.css",
+		"/C/xampp/htdocs/blog/database/migrations/2018_05_08_043303_create_posts_table.php",
+		"/C/xampp/htdocs/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/blog/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php",
+		"/C/xampp/htdocs/blog/database/migrations/2018_05_06_084551_create_tasks_table.php",
+		"/C/Users/Dipper/Desktop/MACLERN/LandsatSOM.py",
+		"/C/Users/Dipper/Desktop/htdocs/warehouse/resources/views/notifications.blade.php",
+		"/C/xampp/php/php.ini",
+		"/C/php/php.ini",
+		"/C/xampp/htdocs/blog/resources/views/about.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/test.blade",
+		"/C/xampp/htdocs/blog/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/blog/database/migrations/2018_05_06_075642_create_students_table.php",
+		"/C/xampp/htdocs/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/Dipper/Desktop/Laravel Projects/first-project/resources/views/welcome.blade.php",
+		"/C/Users/Dipper/Desktop/Laravel Projects/first-project/routes/web.php",
+		"/C/Users/Dipper/Desktop/Laravel Projects/first-project/resources/views/about.blade.php",
+		"/C/Users/Dipper/Desktop/Laravel Projects/first-project/.env",
+		"/C/Users/Dipper/Desktop/Laravel Projects/first-project/webpack.mix.js",
+		"/C/xampp/htdocs/Shoeversity/shoeversity_database.sql",
+		"/C/xampp/htdocs/Shoeversity/database/user_checkout_remove_product.php",
+		"/C/xampp/htdocs/Shoeversity/views/modals/cart_checkout.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "roll-a-ball.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/PlayerController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1326,
+								1326
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"1236,1241": "Redundant ToString() call",
+								"168,173": "Name should have prefix '_'. (Rule 'Fields').",
+								"191,200": "Name should have prefix '_'. (Rule 'Fields').",
+								"218,225": "Name should have prefix '_'. (Rule 'Fields').",
+								"26,31": "Using directive is not used by code and can be removed safely.",
+								"836,843": "Use 'var' keyword",
+								"975,983": "Parameter can be declared with base type"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/Rotator.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"26,31": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 98.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/CameraController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								614,
+								614
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "roll-a-ball.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dipper\\Desktop\\GItLab\\lazy-beer\\resources\\views\\faqs.blade.php"
+			],
+			[
+				"rascus",
+				"resources\\assets\\sass\\custom.scss"
+			],
+			[
+				"rvfaq",
+				"resources\\views\\faqs.blade.php"
+			],
+			[
+				"User",
+				"app\\User.php"
+			],
+			[
+				"OrderCont",
+				"app\\Http\\Controllers\\OrderController.php"
+			],
+			[
+				"order.blade",
+				"resources\\views\\orders.blade.php"
+			],
+			[
+				"rascustom",
+				"resources\\assets\\sass\\custom.scss"
+			],
+			[
+				"checkout",
+				"resources\\views\\checkout.blade.php"
+			],
+			[
+				"Bucket",
+				"app\\Bucket.php"
+			],
+			[
+				"order",
+				"app\\Order.php"
+			],
+			[
+				"adminorderinde",
+				"resources\\views\\admin\\order\\index.blade.php"
+			],
+			[
+				"OrderC",
+				"app\\Http\\Controllers\\OrderController.php"
+			],
+			[
+				"bucket",
+				"app\\Bucket.php"
+			],
+			[
+				"bucket.blad",
+				"resources\\views\\bucket.blade.php"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"Bc",
+				"app\\Http\\Controllers\\BucketController.php"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"capp",
+				"config\\app.php"
+			],
+			[
+				"pindex",
+				"public\\index.php"
+			],
+			[
+				"avis",
+				"app\\Visit.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"dashbo",
+				"resources\\views\\admin\\dashboard.blade.php"
+			],
+			[
+				"itemcon",
+				"app\\Http\\Controllers\\ItemController.php"
+			],
+			[
+				"admin/",
+				"resources\\views\\admin\\item\\add.blade.php"
+			],
+			[
+				"components.ca",
+				"resources\\views\\components\\carousel.blade.php"
+			],
+			[
+				"browse",
+				"resources\\views\\browse.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"listindex",
+				"listings\\index.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"ninde",
+				"listings\\sale-new-three-storey-house-in-alabang-sample\\index.php"
+			],
+			[
+				"nindex",
+				"listings\\sale-new-three-storey-house-in-alabang-sample\\index.php"
+			],
+			[
+				"aindex",
+				"about\\index.php"
+			],
+			[
+				"app",
+				"res\\css\\app.css"
+			],
+			[
+				"cinde",
+				"contact\\index.php"
+			],
+			[
+				"bindex",
+				"bulletin\\index.php"
+			],
+			[
+				"tindex",
+				"testimonials\\index.php"
+			],
+			[
+				"binde",
+				"bulletin\\index.php"
+			],
+			[
+				"cindex",
+				"contact\\index.php"
+			],
+			[
+				"bind",
+				"bulletin\\index.php"
+			],
+			[
+				"listings/in",
+				"listings\\index.php"
+			],
+			[
+				"contact/n",
+				"contact\\index.php"
+			],
+			[
+				"app.c",
+				"res\\css\\app.css"
+			],
+			[
+				"google",
+				"res\\js\\google-maps-home.js"
+			],
+			[
+				"footer",
+				"res\\templates\\footer.php"
+			],
+			[
+				"legal/pri",
+				"legal\\privacy\\index.php"
+			],
+			[
+				"footer-h",
+				"res\\templates\\footer-home.php"
+			],
+			[
+				"rtfo",
+				"res\\templates\\footer.php"
+			],
+			[
+				"nav-",
+				"res\\templates\\nav-home.php"
+			],
+			[
+				"nav",
+				"res\\templates\\nav.php"
+			],
+			[
+				"nav-h",
+				"res\\templates\\nav-home.php"
+			],
+			[
+				"rcap",
+				"res\\css\\app.css"
+			],
+			[
+				"rbcboots",
+				"res\\bootstrap\\css\\bootstrap.css"
+			],
+			[
+				"rbcbootstrap.min",
+				"res\\bootstrap\\css\\bootstrap.min.css"
+			],
+			[
+				"bcreat",
+				"resources\\views\\blog\\create.blade.php"
+			],
+			[
+				"bcrea",
+				"resources\\views\\blog\\create.blade.php"
+			],
+			[
+				"post",
+				"app\\Post.php"
+			],
+			[
+				"postsc",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"rwe",
+				"routes\\web.php"
+			],
+			[
+				"postsco",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"layout",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"la",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"lay",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"posts/index",
+				"resources\\views\\posts\\index.blade.php"
+			],
+			[
+				"layou",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"dmpost",
+				"database\\migrations\\2018_05_08_043303_create_posts_table.php"
+			],
+			[
+				"task",
+				"app\\Task.php"
+			],
+			[
+				"atask",
+				"app\\Task.php"
+			],
+			[
+				"atas",
+				"app\\Task.php"
+			],
+			[
+				"dmu",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"dbuser",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\DatabaseUserProvider.php"
+			],
+			[
+				"dmuser",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"appserve",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"rvwe",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welcome.",
+				"first-project\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"user_checkout_remove_product",
+				"database\\user_checkout_remove_product.php"
+			],
+			[
+				"shoever",
+				"shoeversity_database.sql"
+			],
+			[
+				"user_save",
+				"database\\user_save_session.php"
+			],
+			[
+				"get_logs",
+				"database\\get_logs.php"
+			],
+			[
+				"view_ad",
+				"views\\admin\\view_audit_logs.php"
+			],
+			[
+				"main",
+				"css\\main.css"
+			],
+			[
+				"admin_shoeversity_styles",
+				"templates\\admin\\admin_shoeversity_styles.php"
+			],
+			[
+				"cart",
+				"templates\\users\\user_shopping_cart_panel.php"
+			],
+			[
+				"user_add_to_cart",
+				"database\\user_add_to_cart.php"
+			],
+			[
+				"user_get_shoe",
+				"database\\user_get_shoe.php"
+			],
+			[
+				"shoe_get",
+				"database\\shoe_get.php"
+			],
+			[
+				"filter_shoes_public",
+				"database\\filter_shoes_public.php"
+			],
+			[
+				"shoe_num_rows_p",
+				"database\\pagination\\shoe_num_rows_public.php"
+			],
+			[
+				"shoe_grid_show_pu",
+				"database\\pagination\\shoe_grid_show_public.php"
+			],
+			[
+				"shoe_filter_clear",
+				"database\\shoe_filter_clear.php"
+			],
+			[
+				"shoe_grid_show_public",
+				"database\\pagination\\shoe_grid_show_public.php"
+			],
+			[
+				"fitler",
+				"templates\\public_filter_sidebar.php"
+			],
+			[
+				"register_user",
+				"views\\register_user.php"
+			],
+			[
+				"register",
+				"views\\register.php"
+			],
+			[
+				"login",
+				"views\\login.php"
+			],
+			[
+				"public_filter_sidebar",
+				"templates\\public_filter_sidebar.php"
+			],
+			[
+				"shoe_num_rows_public",
+				"database\\pagination\\shoe_num_rows_public.php"
+			],
+			[
+				"public_footer",
+				"templates\\public_footer.php"
+			],
+			[
+				"filter",
+				"templates\\public_filter_sidebar.php"
+			],
+			[
+				"brand_list_",
+				"database\\brand_list_get.php"
+			],
+			[
+				"brand_add",
+				"database\\brand_add_product.php"
+			],
+			[
+				"shoe_num_rows",
+				"database\\shoe_num_rows.php"
+			],
+			[
+				"view_",
+				"views\\view_product.php"
+			],
+			[
+				"view_pr",
+				"css\\view_product.css"
+			],
+			[
+				"bus_mas",
+				"views\\tabs\\bus_marshals.php"
+			],
+			[
+				"routes",
+				"views\\admin\\routes.php"
+			],
+			[
+				"users.php",
+				"views\\admin\\users.php"
+			],
+			[
+				"announcement_delete",
+				"database\\announcement_delete.php"
+			],
+			[
+				"busmarshal_insert",
+				"database\\busmarshal_insert.php"
+			],
+			[
+				"map_upload",
+				"database\\map_upload.php"
+			],
+			[
+				"map_de",
+				"database\\map_delete.php"
+			],
+			[
+				"route_inser",
+				"database\\route_insert.php"
+			],
+			[
+				"navbarad",
+				"views\\admin\\components\\navbar_admin.php"
+			],
+			[
+				"adminchart_shuttle_count",
+				"views\\admin\\components\\adminchart_shuttle_count.php"
+			],
+			[
+				"adminchart_reg_count",
+				"views\\admin\\components\\adminchart_reg_count.php"
+			],
+			[
+				"dashboard",
+				"views\\admin\\dashboard.php"
+			],
+			[
+				"footer_public",
+				"views\\footer_public.php"
+			],
+			[
+				"index.php",
+				"Shoeversity\\views\\index.php"
+			],
+			[
+				"announcements",
+				"shuttle-system\\database\\announcements_get.php"
+			],
+			[
+				"announcements.p",
+				"shuttle-system\\views\\admin\\announcements.php"
+			],
+			[
+				"shoes_list_get",
+				"Shoeversity\\database\\shoes_list_get.php"
+			],
+			[
+				"check_acces",
+				"shuttle-system\\database\\check_access.php"
+			],
+			[
+				"public_header",
+				"Shoeversity\\templates\\public_header.php"
+			],
+			[
+				"admin_sh",
+				"Shoeversity\\templates\\admin\\admin_shoeversity_styles.php"
+			],
+			[
+				"admin_bs_",
+				"Shoeversity\\templates\\admin\\admin_bs_styles.php"
+			],
+			[
+				"brand",
+				"Shoeversity\\templates\\brands\\brand_bs_styles.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
